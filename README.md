@@ -8,6 +8,8 @@ NodeJS single threadedness makes it a perfect candidate for I/O operations and t
 didn't use realtime features like websockets but considering the nature of Cointrackers application; I considered using NodeJS as it has a rich support for
 realtime applications. NodeJS has a rich ecosystem for Web3 components and that was a motivation for choosing this language.
 
+<br/>
+
 #### <b>Type system (Using TypeScript)</b>
 
 From my technical interview with Stefan and Pavlo; I gathered that Cointracker is growing its technical team and so I found it necessary to employ a type
@@ -33,8 +35,8 @@ application.
 
 #### <b>12-Factor App</b>
 
-I built this application using the [12-factors](https://12factor.net/). The 12-factor is a methodology that allows one to build a completely cloud native
-suitable for deployments in any cloud platform.
+I built this application using the [12-factor methodology](https://12factor.net/). The 12-factor is a methodology that allows one to build a completely
+cloud-native application suitable for deployments in any cloud platform.
 
 <br>
 
