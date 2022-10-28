@@ -42,7 +42,7 @@ suitable for deployments in any cloud platform.
 
 #### <b>1. Update environment variables</b>
 
-Rename `.env.example` to `.env`. YOu may update the values or leave as the default.
+Rename `.env.example` to `.env`. Leave as default
 
 #### <b>2. Install docker</b>
 
