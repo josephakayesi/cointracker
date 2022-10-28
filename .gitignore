@@ -1,0 +1,11 @@
+# node modules
+node_modules
+
+# distribution
+dist
+
+# environment varaibles
+.env
+
+# mongo data
+data
