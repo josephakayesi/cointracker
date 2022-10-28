@@ -59,8 +59,6 @@ Run the build commmand below to build your image \
 
 Run the application by using docker compose `docker compose up`
 
-<br/>
-
-#### <b>Test project</b>
+#### <b>5. Test project</b>
 
 Once running. visit [http://localhost:5000](http://localhost:5000) to view all available endpoints via the documentation
