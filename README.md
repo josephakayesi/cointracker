@@ -46,7 +46,7 @@ Rename `.env.example` to `.env`. YOu may update the values or leave as the defau
 
 #### <b>2. Install docker</b>
 
-Ensure you hace docker installed. Installation instructions can be found [here](https://docs.docker.com/engine/install/)
+Ensure you have docker installed. Installation instructions can be found [here](https://docs.docker.com/engine/install/)
 
 #### <b>3. Build image</b>
 
@@ -56,3 +56,7 @@ Run the build commmand below to build your image \
 #### <b>4. Run application</b>
 
 Run the application by using docker compose `docker compose up`
+
+<br/>
+
+Visit [http://localhost:5000](http://localhost:5000) to view API documentation
